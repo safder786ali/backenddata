@@ -1,0 +1,20 @@
+http://plazacrm.com/plaza/salaryTemplate change
+key: user_id  value:24
+key:designtation_id value:7
+change
+1.salary kab se kab tak hai
+2.overtime not comes
+
+http://plazacrm.com/plaza/dailyreport
+report data is not comimg
+
+http://plazacrm.com/plaza/makePayment value not come properlycheck
+
+
+
+
+
+web problem data not coming form backend
+http://plazacrm.com/plaza/Payroll/advanceSalary data not coming for backend
+
+providentFund 
